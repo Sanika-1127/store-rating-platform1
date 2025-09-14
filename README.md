@@ -70,3 +70,19 @@ npm start
 cd frontend
 npm start
 
+# Screenshots
+<img width="942" height="434" alt="Login" src="https://github.com/user-attachments/assets/f0fbab95-13a0-4f60-aa58-8a001f47b799" />
+<img width="947" height="440" alt="Signup" src="https://github.com/user-attachments/assets/934405bd-e379-43d6-921b-beba9d46e9e4" />
+<img width="935" height="440" alt="AdminDashboard1" src="https://github.com/user-attachments/assets/9b92ee30-e93f-4184-a488-f3ddda90aaae" />
+<img width="937" height="442" alt="AdminDashboard2" src="https://github.com/user-attachments/assets/40ac56f4-c3ff-4ec7-82ef-c1806a5f7d13" />
+<img width="935" height="437" alt="AdminDashboard3" src="https://github.com/user-attachments/assets/664b04b1-853b-4d30-bdb9-f30c55810528" />
+<img width="938" height="443" alt="StoreOwnerDashboard" src="https://github.com/user-attachments/assets/e0c06b54-1b5a-477c-a6ea-59e6fc15da7f" />
+<img width="934" height="439" alt="UserDashboard" src="https://github.com/user-attachments/assets/a5119088-00dd-40ad-bc57-6b7d392bcdaa" />
+
+
+
+
+
+
+
+
