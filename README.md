@@ -62,11 +62,11 @@ DB_PASS=yourpassword
 DB_NAME=store_rating
 JWT_SECRET=your_secret_key
 
-# Run backend
+Run backend
 cd backend
 npm start
 
-# Run frontend
+Run frontend
 cd frontend
 npm start
 
