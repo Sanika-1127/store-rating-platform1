@@ -69,4 +69,4 @@ npm start
 # Run frontend
 cd frontend
 npm start
-<img width="537" height="478" alt="Screenshot 2024-07-28 112452" src="https://github.com/user-attachments/assets/a1d3c1b2-b908-4e15-9b88-b2979d9c652b" />
+
